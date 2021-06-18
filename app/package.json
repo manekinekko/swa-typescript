@@ -1,0 +1,13 @@
+{
+  "name": "swa-e2e-typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "postbuild": "copyfiles index.html dist",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "copyfiles": "^2.4.1",
+    "typescript": "^4"
+  }
+}

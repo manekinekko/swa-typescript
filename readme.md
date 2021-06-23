@@ -1,4 +1,4 @@
-# Azure Static Web Apps application in TypeScript
+# Azure Static Web Apps minimal TypeScript template
 
 
 [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build TypeScript apps in minutes. Use this repo to build and customize a new static site with both a frentend app and a backend API.
